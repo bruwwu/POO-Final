@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\Prototype.h(177,31): warning C4584: 'SistemaCarpeta': la clase base 'Sistema' ya es una clase base de 'Carpeta'
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\Prototype.h(128,7): message : vea la declaración de 'Sistema'
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\Prototype.h(142,7): message : vea la declaración de 'Carpeta'
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(64,5): error C2065: 'sistemaArchivo': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(64,21): error C2065: 'archivo1': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(64,36): error C2061: error de sintaxis: identificador 'sistemaArchivo'
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(65,5): error C2065: 'sistemaArchivo': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(65,21): error C2065: 'archivo2': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(65,36): error C2061: error de sintaxis: identificador 'sistemaArchivo'
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(66,5): error C2065: 'sistemaCarpeta': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(66,21): error C2065: 'carpeta': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(66,35): error C2061: error de sintaxis: identificador 'sistemaCarpeta'
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(67,5): error C2065: 'carpeta': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(67,29): error C2065: 'archivo1': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(68,5): error C2065: 'carpeta': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(68,29): error C2065: 'archivo2': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(70,5): error C2065: 'carpeta': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(72,12): error C2065: 'archivo1': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(72,5): error C2541: 'delete': no se pueden eliminar objetos que no sean punteros
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(73,12): error C2065: 'archivo2': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(73,5): error C2541: 'delete': no se pueden eliminar objetos que no sean punteros
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(74,12): error C2065: 'carpeta': identificador no declarado
+C:\Users\Bruwu\Documents\GitHub\coco\chaqueton\chaqueton\main.cpp(74,5): error C2541: 'delete': no se pueden eliminar objetos que no sean punteros
